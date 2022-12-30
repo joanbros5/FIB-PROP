@@ -1,0 +1,3 @@
+Manuel.pdf: PDF del manual de usuario del programa
+Juegos.pdf: Juegos de pruebas de las funcionalidades del programa
+Reparto.pdf: Reparto de tareas por cada miembro del equipo en esta entrega
