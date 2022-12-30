@@ -1,0 +1,23 @@
+EXE:
+- Ejecutable del programa: PROP22-2.jar
+- carpeta out con los .class de las clases tras compilar
+
+FONTS:
+- Clases del proyecto por packages
+	Prop: Codigo de las clases 
+
+DOCS:
+- Manuel.pdf: manual de usuario del programa
+- Reparto.pdf: reparto de tareas por cada miembro de la clase
+- Juegos.pdf: Juegos de pruebas del programa para probar sus funcionalidades principales
+
+DescripcionEquipo.txt
+- Informacion principal sobre los miembros del equipo
+
+
+NOTAS IMPORTANTES:
+La ordenación inversa no funciona bien en la capa de presentación. En la terminal se muestra 
+que somos capaces de ordenar en ambos sentidos, pero no se refleja en la interficie de usuario.
+
+Es posible que salten errores aunque el programa funcione bien. Los más comunes los hemos 
+escrito en el manual.

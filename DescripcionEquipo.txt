@@ -1,0 +1,19 @@
+Grupo Laboratorio: 22.2
+
+Version: 3.0
+
+Data de entrega: 30/12/2022
+
+Integrantes del grupo:
+
+Moran Riera, Arnau
+Rivera Monsergas, Nico
+Ruiz Jimenez, Daniel
+Sales de Marcos, Joan
+
+arnau.moran@estudiantat.upc.edu
+nico.rivera@estudiantat.upc.edu
+daniel.ruiz.jimenez@estudiantat.upc.edu
+joan.sales.de.marcos@estudiantat.upc.edu
+
+arnaumoran@gmail.com
