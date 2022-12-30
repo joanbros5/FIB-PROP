@@ -1,0 +1,41 @@
+Autor.java
+- Clase que impelmenta los autores
+
+conjAutores.java
+- Clase que implementa los conjuntos de Autores
+
+conjDocumentos.java
+- Clase que implementa los conjuntos de Documentos
+
+conjTfidf.java
+- Clase que implementa los conjuntos de Tfidf
+
+ControladorDominio.java
+- Controlador de dominio para implementar las funcionalidades del proyecto
+
+DocumentKey.java
+- Clase que implementa la clave de los documentos
+
+Documento.java
+- Clase que implementa los documentos
+
+Main.java
+- Clase que permite la ejecucion de las funcionalidades del proyecto
+
+tfidf.java
+- Clase que implementa los tfidf
+
+Busqueda
+- Clases relacionadas con las consultas booleanas
+	ConsultaBooleana.java
+	ExpresionBool.java
+	HojaBool.java
+	OperadorBool.java
+
+Ficherostop
+- Ficheros necesarios para las stopwords
+	empty-ca.txt
+	empty-eng.txt
+	empty-sp.txt
+
+

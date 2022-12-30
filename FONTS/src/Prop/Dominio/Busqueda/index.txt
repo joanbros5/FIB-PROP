@@ -1,0 +1,13 @@
+ConsultaBooleana.java
+- Clase que implementa las consultas con expresiones booleanas
+
+ExpresionBool.java
+- Clase que implementa las expresiones booleanas
+
+HojaBool.java
+- Clase que implementa las hojas de una expresion booleana 
+
+OperadorBool.java
+- Clase que implementa las operaciones booleanas
+
+

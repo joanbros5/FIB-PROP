@@ -1,0 +1,56 @@
+Dominio:
+- Conjunto de clases para implementar las funcionalidades del proyecto
+	Autor.java
+	conjAutores.java
+	conjDocumentos.java
+	conjTfidf.java
+	ControladorDominio.java
+	DocumentKey.java
+	Documento.java
+	Main.java
+	tfidf.java
+
+	Busqueda: Contiene las clases asociadas a las expresiones booleanas
+	Ficherostop: Ficheros de stopwords en varios idiomas
+
+Exceptions:
+- Conjunto de excepciones implementadas para gestionar las excepciones del proyecto
+	BadParameter.java
+	CharNotFound.java
+	DocAlreadyExists.java
+	DocNotExists.java
+	ErrMidaVector.java
+	NullAttr.java
+	OperadorNoEncontrado.java
+	OperadorNoExiste.java
+	OperadorSinElementos.java
+	ParamOutOfRange.java
+	ParentesisMalConstruidos.java
+	VoidConsulta.java
+	
+Persistencia:
+- Clase encargada del guardado en disco de los documentos, así como de la importación y exportación de los mismos.
+	libreria: gson-2.6.2.jar
+	ControladorData.java
+
+Presentación
+- Clases encargadas de la interfície de usuario del programa, que consta de varias pantallas.
+	Images: Imágenes que hemos usado en algunas pantallas del programa.
+	AccionDocumento.java
+	AccionExprBooleana.java
+	Confirmar.java
+	ControladorPresentacion.java
+	CrearDocumento.java
+	Errores.java
+	Exito.java
+	ExportarDocumento.java
+	FrameInicial.java
+	ImportExportDocumento.java
+	InicioNuevo.java
+	JosearDocumento.java
+	ListaAutores.java
+	ListaConsultas.java
+	
+	Y todos los .form asociados a estas pantallas
+	
+		

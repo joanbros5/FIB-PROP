@@ -1,0 +1,36 @@
+BadParameter.java
+- Excepcion para gestionar el caso de un parametro invalido
+
+CharNotFound.java
+- Excepcion para gestionar el caso de un caracter no encontrado
+
+DocAlreadyExists.java
+- Excepcion para gestionar el caso de que un documento ya exista
+
+DocNotExists.java
+- Excepcion para gestionar el caso de que un documento no exista
+
+ErrMidaVector.java
+- Excepcion para gestionar el caso de un error de mida de vector
+
+NullAttr.java
+- Excepcion para gestionar el caso de una atributo nulo
+
+OperadorNoEncontrado.java
+- Excepcion para gestionar el caso de que no se encuentre un operador
+
+OperadorNoExiste.java
+- Excepcion para gestionar el caso de que un operador no exista
+
+OperadorSinElementos.java
+- Excepcion para gestionar el caso de que un operador no tenga elementos
+
+ParamOutOfRange.java
+- Excepcion para gestionar el caso de un parametro este fuera del rango correcto
+
+ParentesisMalConstruidos.java
+- Excepcion para gestionar el caso de que unos parentesis no esten bien contruidos
+
+VoidConsulta.java
+- Excepcion para gestionar el caso du una consulta que no devuleve nada
+

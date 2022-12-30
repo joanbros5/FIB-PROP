@@ -1,0 +1,7 @@
+src
+- Carpeta del proyecto
+
+MakefileReadme.txt
+- comandos para compilar el proyecto
+
+Manifest.txt: Fichero para generar el JAR del programa

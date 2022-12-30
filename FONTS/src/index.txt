@@ -1,0 +1,8 @@
+Prop:
+- packages de clases del proyecto
+	Dominio
+	Exceptions
+	Persistencia
+	Presentacion
+
+

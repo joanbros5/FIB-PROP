@@ -1,0 +1,19 @@
+Presentación
+- Clases encargadas de la interfície de usuario del programa, que consta de varias pantallas.
+	Images: Imágenes que hemos usado en algunas pantallas del programa.
+	AccionDocumento.java
+	AccionExprBooleana.java
+	Confirmar.java
+	ControladorPresentacion.java
+	CrearDocumento.java
+	Errores.java
+	Exito.java
+	ExportarDocumento.java
+	FrameInicial.java
+	ImportExportDocumento.java
+	InicioNuevo.java
+	JosearDocumento.java
+	ListaAutores.java
+	ListaConsultas.java
+	
+	Y todos los .form asociados a estas pantallas

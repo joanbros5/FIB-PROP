@@ -1,0 +1,10 @@
+empty-ca.txt
+- Fichero de stopwords en catalan
+
+empty-eng.txt
+- Fichero de stopwords en ingles
+
+empty-sp.txt
+-Fichero de stopwords en castellano
+
+
